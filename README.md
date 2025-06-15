@@ -8,7 +8,7 @@ Welcome to the official code repository for the **"Wired Intelligence: A Neural 
 
 | Part | Topic | Notebook | Youtube Video | 
 |------|-------|----------|---------------|
-| 1 | Teach a Machine XOR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MpY-8lTRxSAMLB4wI7abcVKmI5JGiBOo?usp=sharing) | [Watch Video](Coming soon) |
+| 1 | Teach a Machine XOR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MpY-8lTRxSAMLB4wI7abcVKmI5JGiBOo?usp=sharing) | [Watch Video](https://youtu.be/8Ql3Bi5au2I) |
 | 2 | The Power of Layers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqJSrjXzdqcRjOVV4vQYoHBPhZAbuvOT?usp=sharing) | [Watch Video](Coming soon) |
 | 3 | Give the Robot a Voice (Softmax) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Coming soon) | [Watch Video](Coming soon) |
 | 4 | Train on Real Data (NumPy only) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Coming soon) | [Watch Video](Coming soon) |
